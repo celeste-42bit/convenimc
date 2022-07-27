@@ -30,9 +30,11 @@ I encourage you to report all arising issues directly to me, by visiting this re
 
 ## Licensing and redistribution
 
-This modpack is published under the MIT license.
+This project is published under the MIT license. The license only applies to the software I have written in addition to the mods. The mods themselves are created by others, and have their own licensing. You are NOT ALLOWED to change and or publish the mods themselves in any way without checking out their original licenses and asking their creators for permission. Otherwise...
 
-Feel free to modify it, take it apart or do whatever with it :)
+...Feel free to modify this project, take it apart or do whatever with it :)
 
 Just don't make me responsible for anything bad that happens while doing that ^^
 Seriously, DON'T.
+
+THIS IS A WORK IN PROGRESS!
