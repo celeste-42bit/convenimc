@@ -1,5 +1,9 @@
 # Caelestes' ConveniMC - Making Minecraft more convenient and satisfying
 
+## Scope
+
+This repo covers the development and sourcecode of the MODPACK (consisting of minecraft-mods created by other developers, all credits to them - and my self-engineered addons and supplementary software to make it all work together) and the private SERVER, which is running said pack.
+
 ## Description
 
 This modpack aims to improve visuals, gameplay mechanics and world features, while providing a coherent close-to-vanilla feeling.
