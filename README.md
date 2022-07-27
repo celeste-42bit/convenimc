@@ -26,7 +26,7 @@ Max settings @ 4k:    Intel i7 11900K or equivalent + nVidia GeForce RTX 3070 or
 
 ## Issues
 
-I encourage you to report all arising issues directly to me, by visiting this packs GitHub repo @ https://github.com/celeste-42bit/convenimc/issues
+I encourage you to report all arising issues directly to me, by visiting this repos issues tab @ https://github.com/celeste-42bit/convenimc/issues
 
 ## Licensing and redistribution
 
